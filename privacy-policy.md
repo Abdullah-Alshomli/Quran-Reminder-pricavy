@@ -132,5 +132,5 @@
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: <a href="abdullah.alshomli@gmail.com" class="__cf_email__">abdullah.alshomli@gmail.com</a></li>
+<li>By email: <a  class="__cf_email__">abdullah.alshomli@gmail.com</a></li>
 
